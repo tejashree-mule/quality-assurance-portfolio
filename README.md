@@ -8,7 +8,7 @@ I'm a dedicated QA engineer with 4 years of experience in ensuring software qual
 
 Here are some key skills I bring to the table:
 - **Manual Testing**: Test case creation, bug reporting, and exploratory testing.
-- **Automation Testing**: Automated test scripts using Selenium, and JavaScript.
+- **Automation Testing**: Automated test scripts using Selenium, and java.
 - **API Testing**: Testing REST APIs with Postman.
 - **Performance Testing**: Load testing and stress testing using tools like JMeter.
 - **CI/CD Integration**: Setting up test automation in CI pipelines with GitHub Actions and Jenkins.
